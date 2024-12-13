@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dice-WIN-LOSS/static/css/main.d1dfbcab.css",
+    "main.js": "/Dice-WIN-LOSS/static/js/main.56055c8a.js",
+    "static/media/dicelogo.png": "/Dice-WIN-LOSS/static/media/dicelogo.dd209eaf1218f8d4fda3.png",
+    "static/media/dice6.png": "/Dice-WIN-LOSS/static/media/dice6.6104664d856f0f10cfbc.png",
+    "static/media/dice5.png": "/Dice-WIN-LOSS/static/media/dice5.10a549d914f4c6e380cd.png",
+    "static/media/dice4.png": "/Dice-WIN-LOSS/static/media/dice4.4c33db1f66841ccc2aad.png",
+    "static/media/dice3.png": "/Dice-WIN-LOSS/static/media/dice3.e0b0f657546d70aa4a25.png",
+    "static/media/dice2.png": "/Dice-WIN-LOSS/static/media/dice2.078a8c75a55e5be352bc.png",
+    "static/media/dice1.png": "/Dice-WIN-LOSS/static/media/dice1.988b89e3409995d4536b.png",
+    "index.html": "/Dice-WIN-LOSS/index.html",
+    "main.d1dfbcab.css.map": "/Dice-WIN-LOSS/static/css/main.d1dfbcab.css.map",
+    "main.56055c8a.js.map": "/Dice-WIN-LOSS/static/js/main.56055c8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dfbcab.css",
+    "static/js/main.56055c8a.js"
+  ]
+}
